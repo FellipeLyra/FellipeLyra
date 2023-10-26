@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-## Olá, eu sou o Fellipe Lyra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
+## Olá, me chamo Fellipe Lyra <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
