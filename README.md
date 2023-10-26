@@ -31,4 +31,3 @@
  
 </div>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/FellipeLyra.gif?z=6)](https://github4life.herokuapp.com/FellipeLyra)
