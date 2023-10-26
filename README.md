@@ -30,3 +30,5 @@
   <a href="https://www.linkedin.com/in/fellipe-lyra-18398a195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/FellipeLyra.gif?z=6)](https://github4life.herokuapp.com/FellipeLyra)
