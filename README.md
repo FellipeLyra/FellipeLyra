@@ -5,12 +5,13 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo algumas aplicações
 - 🎓 &nbsp; estudante de ciências da computação no <a href="https://www.ifgoiano.edu.br/home/index.php/morrinhos.html">IF-Goiano</a>.
-<!- - 🌱 &nbsp; learning more about **AngularJS & ReactJs**.  ->
 - 🏡 &nbsp; sou brasileiro
 - 🌎 &nbsp; meus idiomas **:brazil: 🏴󠁧󠁢󠁥󠁮󠁧󠁿**
 
 <br>
 
+<h3> :man: &nbsp;Minhas Skills </h3>
+]
 <div align="center">
   <a href="https://github.com/FellipeLyra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipeLyra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +19,8 @@
 </div>
   
   ##
- 
+
+ <h3> :man: &nbsp;Mídia sociais </h3>
 <div> 
   <a href="https://www.instagram.com/lyrarts_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/expertinho1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
