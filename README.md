@@ -1,4 +1,6 @@
-## Olá, eu sou o Fellipe Lyra, estudante de ciências da computação!
+<img src="https://i.ppvise.site/search_image_v2/cef39dabf5" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## Olá, eu sou o Fellipe Lyra, estudante de ciências da computação! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 
 <div align="center">
   <a href="https://github.com/FellipeLyra">
@@ -15,6 +17,6 @@
   <a href = "mailto:fhlyra1947@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fellipe-lyra-18398a195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/FellipeLyra/FellipeLyra/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
