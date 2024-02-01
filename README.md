@@ -15,9 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/FellipeLyra">
-    <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrioja&theme=algolia&hide_border=true&layout=compact&card_width=445&hide=css,html,objective-C" />
-  < !-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipeLyra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeLyra&layout=compact&langs_count=7&theme=dark"/> -- >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipeLyra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeLyra&layout=compact&langs_count=7&theme=dark"/> 
 </div>
   
   ##
