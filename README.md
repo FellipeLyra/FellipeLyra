@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo algumas aplicações
 - 🎓 &nbsp; estudante de ciências da computação no <a href="https://www.ifgoiano.edu.br/home/index.php/morrinhos.html">IF-Goiano</a>.
 - 🏡 &nbsp; sou brasileiro
-- 🌎 &nbsp; meus idiomas **:brazil:** *IN*
+- 🌎 &nbsp; meus idiomas **:brazil:** IN
 
 <br>
 
