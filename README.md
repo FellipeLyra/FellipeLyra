@@ -2,39 +2,45 @@
 
 # 👋 Olá, eu sou o Fellipe Lyra
 
-### 💻 Desenvolvedor • 🎓 Ciência da Computação • 🚀 Apaixonado por tecnologia
+### 💻 Desenvolvedor • 🎓 Ciência da Computação • 🚀 Tecnologia & IA
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="Ilustração de computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="330px" alt="Ilustração de computador">
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=FellipeLyra\&color=0078D4\&style=flat-square\&label=Visualizações)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 ```javascript
 const fellipe = {
-    nome: "Fellipe Lyra",
-    localizacao: "Brasil 🇧🇷",
-    formacao: "Ciência da Computação",
-    instituicao: "IF Goiano",
-    interesses: [
-        "Desenvolvimento de Software",
-        "Inteligência Artificial",
-        "Automação",
-        "Tecnologia",
-        "Criação de Projetos"
-    ],
-    objetivo: "Transformar ideias em soluções que realmente funcionam."
+  nome: "Fellipe Lyra",
+  pais: "Brasil 🇧🇷",
+  formacao: "Ciência da Computação",
+  instituicao: "IF Goiano",
+
+  interesses: [
+    "Desenvolvimento de Software",
+    "Inteligência Artificial",
+    "Automação",
+    "Tecnologia",
+    "Criação de Projetos"
+  ],
+
+  objetivo: "Transformar ideias em soluções que realmente funcionam."
 };
 ```
 
-* 🎓 Estudante de **Ciência da Computação** no [IF Goiano](https://www.ifgoiano.edu.br/home/index.php/morrinhos.html)
+* 🎓 Estudante de **Ciência da Computação** no [IF Goiano](https://www.ifgoiano.edu.br/)
 * 💻 Desenvolvendo aplicações e explorando novas tecnologias
-* 🤖 Interessado em **Inteligência Artificial, automação e desenvolvimento de software**
-* 🧠 Sempre buscando aprender algo novo
+* 🤖 Interesse em **Inteligência Artificial, automação e desenvolvimento de software**
+* 🧠 Sempre buscando aprender e evoluir
 * 🇧🇷 Brasileiro
 * 🌎 Idiomas: **Português 🇧🇷 | Inglês 🇺🇸**
 * 🚀 Gosto de transformar ideias em projetos reais
@@ -45,23 +51,7 @@ const fellipe = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,react,git,github,vscode&perline=10" />
-
-</div>
-
-<br>
-
-> Sempre expandindo minha stack e experimentando novas ferramentas.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FellipeLyra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeLyra&layout=compact&langs_count=8&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,nodejs,react,git,github,vscode,mysql&perline=12" />
 
 </div>
 
@@ -69,7 +59,7 @@ const fellipe = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=FellipeLyra&theme=github-dark-blue&hide_border=true" />
+`JavaScript` • `TypeScript` • `Python` • `Java` • `HTML` • `CSS` • `Node.js` • `React` • `Git` • `SQL`
 
 </div>
 
@@ -77,10 +67,25 @@ const fellipe = {
 
 ## 🚀 Atualmente
 
-* 🔨 Trabalhando em novos projetos e aplicações
-* 🤖 Explorando possibilidades com **Inteligência Artificial**
-* 📚 Aprimorando meus conhecimentos em desenvolvimento
-* ⚙️ Buscando criar sistemas cada vez mais completos, úteis e eficientes
+* 💻 Desenvolvendo novos projetos e aplicações
+* 🤖 Explorando **Inteligência Artificial**
+* ⚙️ Trabalhando com automações e ferramentas para produtividade
+* 📚 Aprimorando meus conhecimentos em desenvolvimento de software
+* 🧩 Buscando criar sistemas completos, úteis e eficientes
+
+---
+
+## 📌 Áreas de interesse
+
+```text
+💻 Desenvolvimento de Software
+🤖 Inteligência Artificial
+⚙️ Automação
+🖥️ Aplicações Desktop
+🌐 Desenvolvimento Web
+🗄️ Banco de Dados
+🧠 Solução de Problemas
+```
 
 ---
 
@@ -112,28 +117,12 @@ const fellipe = {
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FellipeLyra&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Ideias só se tornam grandes quando saem do papel."
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=FellipeLyra&color=blue&style=for-the-badge&label=VISITAS+AO+PERFIL" />
-
-<br><br>
-
 ⭐ **Obrigado por visitar meu perfil!**
 
 </div>
-
-
